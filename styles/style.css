@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;
+    padding: 0; 
     box-sizing: border-box;
     font-family: arial;
 }
@@ -60,4 +60,17 @@ a {
 .ball {
     border-radius: 50%;
     position: absolute;
+    
+    
 }
+
+.tre{
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    position: absolute;
+}
+
+.Kua{
+    border-radius: 10%;
+    position: absolute;
+}
+
